@@ -1,0 +1,99 @@
+html {
+  height: 85%;
+  width:100%;
+}
+body {
+  min-height: 85%;
+  min-width:100%;
+}
+.main{
+    position:absolute;
+    width:75%;
+    height:90%;
+    min-height:90%;
+    padding-top:5%;
+    padding-left:5%;
+    padding-right:5%;
+    font-size:1.25em;
+}
+.footer{
+    display:none;
+    position:absolute;
+    bottom:0px;
+    height:5%;
+    width:90%;
+    margin-top:5%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:0%;    
+    border-top:solid 4px #00277f;    
+}
+.banner{
+    padding-bottom:.5em;
+    border-bottom:solid 4px #00277f;    
+    margin-bottom:1.5em;
+}
+.content{
+    display:inline-block;
+    width:100%;
+    padding-top:1em;
+}
+.headline{
+    display:inline-block;
+    width:100%;
+    text-align:center;
+}
+.navbar{
+        display: inline-block;
+        width:90%;
+        padding-bottom:.5em;
+        padding-top:1em;
+        margin-top:0em;
+        margin-bottom:0em;
+        float:center;
+    } 
+.leftcontent{
+    display:inline-block;
+    width:100%;
+    max-width:100%;
+}
+.rightcontent{
+    display:inline-block;
+    margin-left:10%;
+    max-width:80%;
+    vertical-align: top;
+    width:80%;
+    min-width:80%
+}
+.portrait{
+        padding-left:35%;
+        padding-right:35%;
+        max-width:30%;
+        min-width:30%;
+        width:30%;
+        height:auto;
+        text-align:center;
+}
+.logo{
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-right:10px;
+    margin-left:10px;
+    width:auto;
+    height:auto;
+    max-width:20%;
+    float:right;
+}
+.subheading{
+    display:block;
+    font-size: 1em;
+    font-weight:bold;
+    width: 100%;
+    text-align:left;
+    padding-bottom:1em;
+    vertical-align: top;
+}
+
+
+
+
