@@ -24,11 +24,11 @@ body {
     margin-left:10%;
     margin-right:10%;
     margin-bottom:0%;    
-    border-top:solid 4px #00277f;    
+    border-top:solid 4px #990000;    
 }
 .banner{
     padding-bottom:.5em;
-    border-bottom:solid 4px #00277f;    
+    border-bottom:solid 4px #990000;    
     margin-bottom:1.5em;
 }
 .content{
@@ -191,3 +191,6 @@ body {
     padding-bottom:5px;
 }
 
+b {
+font-weight: 700;
+}
