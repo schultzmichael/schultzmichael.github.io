@@ -4,13 +4,16 @@ html {
 body {
   min-height: 90%;
 }
+b {
+font-weight: 700;
+}
 .main{
     font-family:'Roboto',sans-serif;
     display:inline-block;
     width:80%;
     height:90%;
     min-width:500px;
-    min-height:65vh;
+    min-height:50vh;
     padding-top:5%;
     padding-left:10%;
     padding-bottom:5%;
@@ -25,11 +28,11 @@ body {
     margin-left:10%;
     margin-right:10%;
     margin-bottom:0%;    
-    border-top:solid 4px #00277f;    
+    border-top:solid 4px #990000;
 }
 .banner{
     padding-bottom:.5em;
-    border-bottom:solid 4px #00277f;    
+    border-bottom:solid 4px #990000;    
     margin-bottom:1.5em;
 }
 .content{
@@ -197,8 +200,11 @@ body {
     display:block;
     margin-top:-.5em;    
     margin-bottom:1em;
+   font-size:.8em;
+   margin-left:2em;
+ 
 }
-.note a{
+.note{
     font-size:.8em;
     margin-left:2em;
 }
