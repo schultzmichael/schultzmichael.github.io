@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>students on Michael Schultz</title>
+    <link>https://example.com/categories/students/</link>
+    <description>Recent content in students on Michael Schultz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2023 22:55:05 -0400</lastBuildDate><atom:link href="https://example.com/categories/students/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://example.com/students/</link>
+      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      
+      <guid>https://example.com/students/</guid>
+      <description>Office Hours My drop-in office hours this semester are Tuesdays and Thursday from 10am-11am in Ballantine Hall 755. I&amp;rsquo;m back to doing office hours in person unless we arrange in advance to meet over Zoom.
+If you have a conflict during those times, email me and we can set up an alternative time.
+Recommendation Letter Policy I am happy to write letters of recommendation for students who meet the following criteria:</description>
+    </item>
+    
+  </channel>
+</rss>
