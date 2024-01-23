@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cv on Michael Schultz</title>
-    <link>schultzmichael.github.com/categories/cv/</link>
+    <link>/categories/cv/</link>
     <description>Recent content in cv on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>schultzmichael.github.com/cv/</link>
+      <link>/cv/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/cv/</guid>
+      <guid>/cv/</guid>
       <description> Academic CV Resume (US) CV (UK) </description>
     </item>
     

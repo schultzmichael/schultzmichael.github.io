@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programador Solitário on Michael Schultz</title>
-    <link>schultzmichael.github.com/authors/programador-solit%C3%A1rio/</link>
+    <link>/authors/programador-solit%C3%A1rio/</link>
     <description>Recent content in Programador Solitário on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/authors/programador-solit%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/authors/programador-solit%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>schultzmichael.github.com/posts/markdown-syntax.pt-br/</link>
+      <link>/posts/markdown-syntax.pt-br/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/markdown-syntax.pt-br/</guid>
+      <guid>/posts/markdown-syntax.pt-br/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Conteúdo Rico</title>
-      <link>schultzmichael.github.com/posts/rich-content.pt-br/</link>
+      <link>/posts/rich-content.pt-br/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/rich-content.pt-br/</guid>
+      <guid>/posts/rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -34,10 +34,10 @@
     
     <item>
       <title>Mais Conteúdo Rico</title>
-      <link>schultzmichael.github.com/posts/more-rich-content.pt-br/</link>
+      <link>/posts/more-rich-content.pt-br/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/more-rich-content.pt-br/</guid>
+      <guid>/posts/more-rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -50,19 +50,19 @@
     
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>schultzmichael.github.com/posts/math-typesetting.pt-br/</link>
+      <link>/posts/math-typesetting.pt-br/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/math-typesetting.pt-br/</guid>
+      <guid>/posts/math-typesetting.pt-br/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</link>
+      <link>/posts/html-and-css-only-tabs.pt-br/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</guid>
+      <guid>/posts/html-and-css-only-tabs.pt-br/</guid>
       <description>Shortcodes Link to heading O seguinte conteúdo:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Irá gerar:
 Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link to heading Você também pode alinhas as tabs à direita:
@@ -71,28 +71,28 @@ Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link to hea
     
     <item>
       <title>Suporte a Emojis</title>
-      <link>schultzmichael.github.com/posts/emoji-support.pt-br/</link>
+      <link>/posts/emoji-support.pt-br/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/emoji-support.pt-br/</guid>
+      <guid>/posts/emoji-support.pt-br/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>schultzmichael.github.com/posts/hugo-coder-wiki/</link>
+      <link>/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/hugo-coder-wiki/</guid>
+      <guid>/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Texto de Exemplo</title>
-      <link>schultzmichael.github.com/posts/placeholder-text.pt-br/</link>
+      <link>/posts/placeholder-text.pt-br/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/placeholder-text.pt-br/</guid>
+      <guid>/posts/placeholder-text.pt-br/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     

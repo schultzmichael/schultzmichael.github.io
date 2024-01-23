@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Michael Schultz</title>
-    <link>schultzmichael.github.com/categories/research/</link>
+    <link>/categories/research/</link>
     <description>Recent content in research on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>schultzmichael.github.com/research/</link>
+      <link>/research/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/research/</guid>
+      <guid>/research/</guid>
       <description>Methodology Link to heading My methodological work aims to do two things: (1) resolve methodological problems encountered in my substantive work and (2) (more interestingly) understand the relation between sociological theorizing and quantitative research. In particular, I&amp;rsquo;m investigating how semantic theories can be substantiated with statistical modeling and how quantitative statistical research can be applied to abductive theorizing.
 Relevant Work:
 (under review) Schultz, Michael. &amp;ldquo;Prospects for the Statistical Testing of Internally Generated Hypotheses: Research Designs and Metrics.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Schultz</title>
-    <link>schultzmichael.github.com/</link>
+    <link>/</link>
     <description>Recent content on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>schultzmichael.github.com/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m a computational social scientist, currently serving as an assistant professor of sociology at Indiana University Bloomington.
 Previously, I was a post-doctoral researcher at Northwestern University in the Science of Networks in Communities (SONIC) research group. I received my Ph.D. in Sociology from the University of California, Berkeley in August 2016. I also have degrees in Computer Engineering from Carnegie Mellon University and Secondary Education from George Washington University.
 I study organizations, communication, and quantitative methodologies.</description>
@@ -20,19 +20,19 @@ I study organizations, communication, and quantitative methodologies.</descripti
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>schultzmichael.github.com/cv/</link>
+      <link>/cv/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/cv/</guid>
+      <guid>/cv/</guid>
       <description> Academic CV Resume (US) CV (UK) </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>schultzmichael.github.com/research/</link>
+      <link>/research/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/research/</guid>
+      <guid>/research/</guid>
       <description>Methodology Link to heading My methodological work aims to do two things: (1) resolve methodological problems encountered in my substantive work and (2) (more interestingly) understand the relation between sociological theorizing and quantitative research. In particular, I&amp;rsquo;m investigating how semantic theories can be substantiated with statistical modeling and how quantitative statistical research can be applied to abductive theorizing.
 Relevant Work:
 (under review) Schultz, Michael. &amp;ldquo;Prospects for the Statistical Testing of Internally Generated Hypotheses: Research Designs and Metrics.</description>
@@ -40,28 +40,28 @@ Relevant Work:
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>schultzmichael.github.com/posts/markdown-syntax.pt-br/</link>
+      <link>/posts/markdown-syntax.pt-br/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/markdown-syntax.pt-br/</guid>
+      <guid>/posts/markdown-syntax.pt-br/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>schultzmichael.github.com/posts/markdown-syntax/</link>
+      <link>/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/markdown-syntax/</guid>
+      <guid>/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Conteúdo Rico</title>
-      <link>schultzmichael.github.com/posts/rich-content.pt-br/</link>
+      <link>/posts/rich-content.pt-br/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/rich-content.pt-br/</guid>
+      <guid>/posts/rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -74,10 +74,10 @@ Relevant Work:
     
     <item>
       <title>Rich Content</title>
-      <link>schultzmichael.github.com/posts/rich-content/</link>
+      <link>/posts/rich-content/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/rich-content/</guid>
+      <guid>/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -90,10 +90,10 @@ Relevant Work:
     
     <item>
       <title>Mais Conteúdo Rico</title>
-      <link>schultzmichael.github.com/posts/more-rich-content.pt-br/</link>
+      <link>/posts/more-rich-content.pt-br/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/more-rich-content.pt-br/</guid>
+      <guid>/posts/more-rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -106,10 +106,10 @@ Relevant Work:
     
     <item>
       <title>More Rich Content</title>
-      <link>schultzmichael.github.com/posts/more-rich-content/</link>
+      <link>/posts/more-rich-content/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/more-rich-content/</guid>
+      <guid>/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
   
@@ -122,28 +122,28 @@ Relevant Work:
     
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>schultzmichael.github.com/posts/math-typesetting.pt-br/</link>
+      <link>/posts/math-typesetting.pt-br/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/math-typesetting.pt-br/</guid>
+      <guid>/posts/math-typesetting.pt-br/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>schultzmichael.github.com/posts/math-typesetting/</link>
+      <link>/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/math-typesetting/</guid>
+      <guid>/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>schultzmichael.github.com/posts/html-and-css-only-tabs/</link>
+      <link>/posts/html-and-css-only-tabs/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/html-and-css-only-tabs/</guid>
+      <guid>/posts/html-and-css-only-tabs/</guid>
       <description>Shortcodes Link to heading The following content:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
 Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:
@@ -152,10 +152,10 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
     
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</link>
+      <link>/posts/html-and-css-only-tabs.pt-br/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</guid>
+      <guid>/posts/html-and-css-only-tabs.pt-br/</guid>
       <description>Shortcodes Link to heading O seguinte conteúdo:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Irá gerar:
 Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link to heading Você também pode alinhas as tabs à direita:
@@ -164,111 +164,111 @@ Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link to hea
     
     <item>
       <title>Mermaid JS support</title>
-      <link>schultzmichael.github.com/posts/mermaid-support/</link>
+      <link>/posts/mermaid-support/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/mermaid-support/</guid>
+      <guid>/posts/mermaid-support/</guid>
       <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
 flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Find more example on Mermaid-JS website.</description>
     </item>
     
     <item>
       <title>Mermaid JS support</title>
-      <link>schultzmichael.github.com/posts/mermaid-support.pt-br/</link>
+      <link>/posts/mermaid-support.pt-br/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/mermaid-support.pt-br/</guid>
+      <guid>/posts/mermaid-support.pt-br/</guid>
       <description>Se quiser usar o Mermaid-JS em sua página. Use o shortcode mermaid em seus conteúdos Markdown.
 flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Entro mais exemplos na página do Mermaid-JS.</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>schultzmichael.github.com/posts/emoji-support/</link>
+      <link>/posts/emoji-support/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/emoji-support/</guid>
+      <guid>/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Suporte a Emojis</title>
-      <link>schultzmichael.github.com/posts/emoji-support.pt-br/</link>
+      <link>/posts/emoji-support.pt-br/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/emoji-support.pt-br/</guid>
+      <guid>/posts/emoji-support.pt-br/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>External Page: Hugo Coder Wiki</title>
-      <link>schultzmichael.github.com/posts/hugo-coder-wiki/</link>
+      <link>/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/hugo-coder-wiki/</guid>
+      <guid>/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>schultzmichael.github.com/posts/hugo-coder-wiki/</link>
+      <link>/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/hugo-coder-wiki/</guid>
+      <guid>/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>schultzmichael.github.com/posts/placeholder-text/</link>
+      <link>/posts/placeholder-text/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/placeholder-text/</guid>
+      <guid>/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Texto de Exemplo</title>
-      <link>schultzmichael.github.com/posts/placeholder-text.pt-br/</link>
+      <link>/posts/placeholder-text.pt-br/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/posts/placeholder-text.pt-br/</guid>
+      <guid>/posts/placeholder-text.pt-br/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>schultzmichael.github.com/categoria/temas/</link>
+      <link>/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>schultzmichael.github.com/categoria/temas/</guid>
+      <guid>/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>schultzmichael.github.com/categoria/sintaxe/</link>
+      <link>/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>schultzmichael.github.com/categoria/sintaxe/</guid>
+      <guid>/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>schultzmichael.github.com/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>schultzmichael.github.com/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>schultzmichael.github.com/students/</link>
+      <link>/students/</link>
       <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
       
-      <guid>schultzmichael.github.com/students/</guid>
+      <guid>/students/</guid>
       <description>I am on leave during the Spring 2024 semester. I may be slow to respond to my university email.
 Office Hours Link to heading My office hours this semester are by appointment only.
 I&amp;rsquo;m on London time, so appointments will be somewhat early for East Coasters. Email me to make an appointment.
@@ -277,10 +277,10 @@ Recommendation Letter Policy Link to heading I am happy to write letters of reco
     
     <item>
       <title>Hello R Markdown</title>
-      <link>schultzmichael.github.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>schultzmichael.github.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown Link to heading This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -288,47 +288,47 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>About</title>
-      <link>schultzmichael.github.com/about.pt-br/</link>
+      <link>/about.pt-br/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/about.pt-br/</guid>
+      <guid>/about.pt-br/</guid>
       <description>Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
 O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>schultzmichael.github.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>schultzmichael.github.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>schultzmichael.github.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>schultzmichael.github.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Nada para ver aqui.. Circulando!</description>
     </item>
     

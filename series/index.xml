@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Michael Schultz</title>
-    <link>schultzmichael.github.com/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demonstração do Tema</title>
-      <link>schultzmichael.github.com/series/demonstra%C3%A7%C3%A3o-do-tema/</link>
+      <link>/series/demonstra%C3%A7%C3%A3o-do-tema/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/series/demonstra%C3%A7%C3%A3o-do-tema/</guid>
+      <guid>/series/demonstra%C3%A7%C3%A3o-do-tema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme Demo</title>
-      <link>schultzmichael.github.com/series/theme-demo/</link>
+      <link>/series/theme-demo/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/series/theme-demo/</guid>
+      <guid>/series/theme-demo/</guid>
       <description></description>
     </item>
     

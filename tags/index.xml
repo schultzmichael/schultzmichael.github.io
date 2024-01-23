@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Michael Schultz</title>
-    <link>schultzmichael.github.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>research</title>
-      <link>schultzmichael.github.com/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>schultzmichael.github.com/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>schultzmichael.github.com/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>schultzmichael.github.com/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>schultzmichael.github.com/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>schultzmichael.github.com/tags/emoji/</link>
+      <link>/tags/emoji/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/emoji/</guid>
+      <guid>/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>schultzmichael.github.com/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>schultzmichael.github.com/tags/text/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>schultzmichael.github.com/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>schultzmichael.github.com/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>students</title>
-      <link>schultzmichael.github.com/tags/students/</link>
+      <link>/tags/students/</link>
       <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
       
-      <guid>schultzmichael.github.com/tags/students/</guid>
+      <guid>/tags/students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>schultzmichael.github.com/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>schultzmichael.github.com/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>schultzmichael.github.com/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>schultzmichael.github.com/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>schultzmichael.github.com/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>schultzmichael.github.com/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
