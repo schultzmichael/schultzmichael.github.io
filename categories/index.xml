@@ -2,62 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Michael Schultz</title>
-    <link>https://example.com/categories/</link>
+    <link>schultzmichael.github.com/categories/</link>
     <description>Recent content in Categories on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jan 2023 22:55:05 -0400</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cv</title>
+      <link>schultzmichael.github.com/categories/cv/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/categories/cv/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>research</title>
-      <link>https://example.com/categories/research/</link>
-      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      <link>schultzmichael.github.com/categories/research/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/research/</guid>
+      <guid>schultzmichael.github.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demonstração do tema</title>
+      <link>schultzmichael.github.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>schultzmichael.github.com/categories/sintaxe/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/categories/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme demo</title>
+      <link>schultzmichael.github.com/categories/theme-demo/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/categories/theme-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>schultzmichael.github.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>schultzmichael.github.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>schultzmichael.github.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>schultzmichael.github.com/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>students</title>
-      <link>https://example.com/categories/students/</link>
+      <link>schultzmichael.github.com/categories/students/</link>
       <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
       
-      <guid>https://example.com/categories/students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://example.com/categories/teaching/</link>
-      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
-      
-      <guid>https://example.com/categories/teaching/</guid>
+      <guid>schultzmichael.github.com/categories/students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://example.com/categories/r/</link>
+      <link>schultzmichael.github.com/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://example.com/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://example.com/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/categories/themes/</guid>
+      <guid>schultzmichael.github.com/categories/r/</guid>
       <description></description>
     </item>
     

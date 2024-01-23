@@ -2,100 +2,180 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>schultzmichael.github.com/about/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/cv/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/cv/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/research/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/research/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/research/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/authors/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/css/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/markdown-syntax.pt-br/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/html/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/hugo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/authors/lone-coder/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/markdown/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/markdown-syntax/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/authors/programador-solit%C3%A1rio/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/series/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/sintaxe/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categories/theme-demo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/series/theme-demo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/rich-content.pt-br/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/rich-content/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/more-rich-content.pt-br/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/more-rich-content/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/math-typesetting.pt-br/</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/math-typesetting/</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/html-and-css-only-tabs/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/mermaid-support/</loc>
+    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/mermaid-support.pt-br/</loc>
+    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/emoji/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/emoji-support.pt-br/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/hugo-coder-wiki/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/hugo-coder-wiki/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/placeholder-text/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/text/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/posts/placeholder-text.pt-br/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/authors/hugo-authors/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categoria/temas/</loc>
+    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/categoria/sintaxe/</loc>
+    <lastmod>2023-01-04T23:21:06+01:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/shortcodes/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>schultzmichael.github.com/tags/students/</loc>
     <lastmod>2023-01-01T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>schultzmichael.github.com/categories/students/</loc>
     <lastmod>2023-01-01T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/research/</loc>
+    <loc>schultzmichael.github.com/students/</loc>
     <lastmod>2023-01-01T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/research/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/research/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/students/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/students/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/students/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/teaching/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/teaching/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/teaching/</loc>
-    <lastmod>2023-01-01T22:55:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/</loc>
+    <loc>schultzmichael.github.com/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2020-12-01-r-rmarkdown/</loc>
+    <loc>schultzmichael.github.com/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/plot/</loc>
+    <loc>schultzmichael.github.com/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/r/</loc>
+    <loc>schultzmichael.github.com/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/r-markdown/</loc>
+    <loc>schultzmichael.github.com/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>schultzmichael.github.com/about.pt-br/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>schultzmichael.github.com/contact/</loc>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>schultzmichael.github.com/contact/</loc>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>schultzmichael.github.com/projects/</loc>
   </url><url>
-    <loc>https://example.com/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>schultzmichael.github.com/projects/</loc>
   </url>
 </urlset>

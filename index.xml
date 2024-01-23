@@ -2,98 +2,334 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Schultz</title>
-    <link>https://example.com/</link>
+    <link>schultzmichael.github.com/</link>
     <description>Recent content on Michael Schultz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jan 2023 22:55:05 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="schultzmichael.github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>https://example.com/research/</link>
-      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      <title>About</title>
+      <link>schultzmichael.github.com/about/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
-      <description>Organizations and Structures of Communication: My work on the effects of communications structures uses text analysis, information theory, and social networks to investigate the relationships between interactions and social structures in conversations, discussions, and other forms of organizational communications.
-Related Work:
-(working paper) Schultz, Michael, Leslie DeChurch, and Noshir Contractor. &amp;ldquo;Embedded Interactions and Selective Disclosure: Network Effects on Conversations aboard Skylab.&amp;rdquo;
-(working paper) Schultz, Michael and Jonah Stuart Brundage. &amp;ldquo;The Transformation of Global Diplomacy: Networks of Diplomatic Missions, 1648-1815.</description>
+      <guid>schultzmichael.github.com/about/</guid>
+      <description>I&amp;rsquo;m a computational social scientist, currently serving as an assistant professor of sociology at Indiana University Bloomington.
+Previously, I was a post-doctoral researcher at Northwestern University in the Science of Networks in Communities (SONIC) research group. I received my Ph.D. in Sociology from the University of California, Berkeley in August 2016. I also have degrees in Computer Engineering from Carnegie Mellon University and Secondary Education from George Washington University.
+I study organizations, communication, and quantitative methodologies.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>schultzmichael.github.com/cv/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/cv/</guid>
+      <description> Academic CV Resume (US) CV (UK) </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/students/</link>
-      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      <link>schultzmichael.github.com/research/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/students/</guid>
-      <description>Office Hours My drop-in office hours this semester are Tuesdays and Thursday from 10am-11am in Ballantine Hall 755. I&amp;rsquo;m back to doing office hours in person unless we arrange in advance to meet over Zoom.
-If you have a conflict during those times, email me and we can set up an alternative time.
-Recommendation Letter Policy I am happy to write letters of recommendation for students who meet the following criteria:</description>
+      <guid>schultzmichael.github.com/research/</guid>
+      <description>Methodology Link to heading My methodological work aims to do two things: (1) resolve methodological problems encountered in my substantive work and (2) (more interestingly) understand the relation between sociological theorizing and quantitative research. In particular, I&amp;rsquo;m investigating how semantic theories can be substantiated with statistical modeling and how quantitative statistical research can be applied to abductive theorizing.
+Relevant Work:
+(under review) Schultz, Michael. &amp;ldquo;Prospects for the Statistical Testing of Internally Generated Hypotheses: Research Designs and Metrics.</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
-      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>schultzmichael.github.com/posts/markdown-syntax.pt-br/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/teaching/</guid>
-      <description>I teach courses in statistical and computational methods at both the graduate and undergraduate levels. I also teach a course in economic sociology for undergraduates.
-In the past, I&amp;rsquo;ve taught courses in data science for beginners and introductory workshops in both R and python. I also have over six years of experience in consulting on statistical analysis and research design for graduate students and faculty. I am prepared to teach courses in organizations, the logic of inquiry, and specific computational methods at all levels (including text analysis and social network analysis) and special topics related to my research (e.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://example.com/blog/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://example.com/blog/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>schultzmichael.github.com/posts/markdown-syntax.pt-br/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <link>schultzmichael.github.com/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/markdown-syntax/</guid>
+      <guid>schultzmichael.github.com/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://example.com/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Conteúdo Rico</title>
+      <link>schultzmichael.github.com/posts/rich-content.pt-br/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>schultzmichael.github.com/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://example.com/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Rich Content</title>
+      <link>schultzmichael.github.com/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>schultzmichael.github.com/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>schultzmichael.github.com/posts/more-rich-content.pt-br/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>schultzmichael.github.com/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>schultzmichael.github.com/posts/math-typesetting.pt-br/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <link>schultzmichael.github.com/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/math-typesetting/</guid>
+      <guid>schultzmichael.github.com/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://example.com/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>HTML and CSS only tabs</title>
+      <link>schultzmichael.github.com/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/emoji-support/</guid>
+      <guid>schultzmichael.github.com/posts/html-and-css-only-tabs/</guid>
+      <description>Shortcodes Link to heading The following content:
+{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
+Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:
+{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/html-and-css-only-tabs.pt-br/</guid>
+      <description>Shortcodes Link to heading O seguinte conteúdo:
+{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Irá gerar:
+Hello Hello World! Goodbye Goodbye Everybody! Alinhamento à direita Link to heading Você também pode alinhas as tabs à direita:
+{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
+    </item>
+    
+    <item>
+      <title>Mermaid JS support</title>
+      <link>schultzmichael.github.com/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
+flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Find more example on Mermaid-JS website.</description>
+    </item>
+    
+    <item>
+      <title>Mermaid JS support</title>
+      <link>schultzmichael.github.com/posts/mermaid-support.pt-br/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/mermaid-support.pt-br/</guid>
+      <description>Se quiser usar o Mermaid-JS em sua página. Use o shortcode mermaid em seus conteúdos Markdown.
+flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Entro mais exemplos na página do Mermaid-JS.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>schultzmichael.github.com/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suporte a Emojis</title>
+      <link>schultzmichael.github.com/posts/emoji-support.pt-br/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/emoji-support.pt-br/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>schultzmichael.github.com/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>schultzmichael.github.com/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>schultzmichael.github.com/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Texto de Exemplo</title>
+      <link>schultzmichael.github.com/posts/placeholder-text.pt-br/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>schultzmichael.github.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>schultzmichael.github.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>schultzmichael.github.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>schultzmichael.github.com/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>schultzmichael.github.com/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>schultzmichael.github.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>schultzmichael.github.com/students/</link>
+      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      
+      <guid>schultzmichael.github.com/students/</guid>
+      <description>I am on leave during the Spring 2024 semester. I may be slow to respond to my university email.
+Office Hours Link to heading My office hours this semester are by appointment only.
+I&amp;rsquo;m on London time, so appointments will be somewhat early for East Coasters. Email me to make an appointment.
+Recommendation Letter Policy Link to heading I am happy to write letters of recommendation for students who meet the following criteria:</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>schultzmichael.github.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>schultzmichael.github.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown Link to heading This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>schultzmichael.github.com/about.pt-br/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/about.pt-br/</guid>
+      <description>Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>schultzmichael.github.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>schultzmichael.github.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>schultzmichael.github.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>schultzmichael.github.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>schultzmichael.github.com/projects/</guid>
+      <description>Nada para ver aqui.. Circulando!</description>
     </item>
     
   </channel>
